@@ -1,0 +1,12 @@
+C:\Users\ninob\OneDrive\Desktop (1)\ShutdownUI\SettingsConfigurator\SettingsConfigurator\bin\Debug\SettingsConfigurator.exe.config
+C:\Users\ninob\OneDrive\Desktop (1)\ShutdownUI\SettingsConfigurator\SettingsConfigurator\bin\Debug\SettingsConfigurator.exe
+C:\Users\ninob\OneDrive\Desktop (1)\ShutdownUI\SettingsConfigurator\SettingsConfigurator\bin\Debug\SettingsConfigurator.pdb
+C:\Users\ninob\OneDrive\Desktop (1)\ShutdownUI\SettingsConfigurator\SettingsConfigurator\obj\Debug\SettingsConfigurator.csproj.AssemblyReference.cache
+C:\Users\ninob\OneDrive\Desktop (1)\ShutdownUI\SettingsConfigurator\SettingsConfigurator\obj\Debug\SettingsConfigurator.csproj.SuggestedBindingRedirects.cache
+C:\Users\ninob\OneDrive\Desktop (1)\ShutdownUI\SettingsConfigurator\SettingsConfigurator\obj\Debug\SettingsConfigurator.Properties.Resources.resources
+C:\Users\ninob\OneDrive\Desktop (1)\ShutdownUI\SettingsConfigurator\SettingsConfigurator\obj\Debug\SettingsConfigurator.csproj.GenerateResource.cache
+C:\Users\ninob\OneDrive\Desktop (1)\ShutdownUI\SettingsConfigurator\SettingsConfigurator\obj\Debug\SettingsConfigurator.csproj.CoreCompileInputs.cache
+C:\Users\ninob\OneDrive\Desktop (1)\ShutdownUI\SettingsConfigurator\SettingsConfigurator\obj\Debug\SettingsConfigurator.exe
+C:\Users\ninob\OneDrive\Desktop (1)\ShutdownUI\SettingsConfigurator\SettingsConfigurator\obj\Debug\SettingsConfigurator.pdb
+C:\Users\ninob\OneDrive\Desktop (1)\ShutdownUI\SettingsConfigurator\SettingsConfigurator\obj\Debug\SettingsConfigurator.Splash.resources
+C:\Users\ninob\OneDrive\Desktop (1)\ShutdownUI\SettingsConfigurator\SettingsConfigurator\obj\Debug\SettingsConfigurator.MainMenu.resources
